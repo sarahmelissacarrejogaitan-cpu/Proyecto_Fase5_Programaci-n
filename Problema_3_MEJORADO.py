@@ -1,7 +1,7 @@
 """
-Nombre del estudiante: [Escriba su nombre completo]
-Grupo: [Escriba su grupo]
-Programa: [Escriba su programa académico]
+Nombre del estudiante: [Sarah Melissa Carrejo Gaitán]
+Grupo: [213022A_2204]
+Programa: [Ingeniería en IA y ciencias de datos]
 Código fuente: autoría propia
 
 Problema 3 - Sistema de reabastecimiento de inventario.
